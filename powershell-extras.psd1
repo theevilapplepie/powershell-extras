@@ -63,7 +63,7 @@ Copyright = 'Copyright (c) 2020 James Vess (theevilapplepie)'
 # FormatsToProcess = @()
 
 # Modules to import as nested modules of the module specified in RootModule/ModuleToProcess
-NestedModules = @('modules\miscmodules.psd1')
+NestedModules = @()
 
 # Functions to export from this module
 FunctionsToExport = '*'
